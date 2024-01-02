@@ -133,7 +133,7 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![image](https://github.com/moulidharyadav/MathServer/assets/147078316/35849291-2a6e-4f33-b207-e8bc8eca91fb)
+![image](https://github.com/moulidharyadav/MathServer/assets/147078316/a2c87ff3-1751-44aa-92a3-94c73d042048)
 
 
 ## HOMEPAGE:
